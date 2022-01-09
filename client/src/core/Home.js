@@ -11,7 +11,7 @@ const Home = () => (
             <div className="container">
                 <p className="text-center" style={{ color: "#fff", fontSize: "large", margin: "0", padding: "20px" }}>
                     Made with <i className="fas fa-heart" style={{ color: "red", fontSize: "24px" }}></i> by
-                        <a href="https://github.com/shahshubh" style={{ color: "white" }} > Shubh Shah </a>
+                        <a href="https://github.com/vinay-nb" style={{ color: "white" }} > Vinay & Santhosh </a>
                 </p>
             </div>
         </footer>
